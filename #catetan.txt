@@ -1,0 +1,21 @@
+api key :
+ LwvGw0Ud3v9Uscpn2Q7LiMWbt
+
+API Key Secret :
+AdxrymHhXdVgyFCtZPQAsg55OBK3MkeI9x4FpgERr2x0eU8ULX
+
+Bearer Token :
+AAAAAAAAAAAAAAAAAAAAABkRfQEAAAAA4HkEijwyyzW0RgjYELGJi2DSa3s%3DiOHFGTZgRc9LimHutn4U1SernHLBBAQAOUXvPm9ReAXcJb5w8w
+
+
+
+after edit 
+
+client ID :
+d1EteGgyMlUzNEk1SUVPanRRUkE6MTpjaQ
+
+client secret :
+LHq62Kvrij8QcxLzVxRDWwbHFzIAugIjVg7yA_c7QuBD4XemW6
+
+
+#NEXTAUTH_SECRET=
